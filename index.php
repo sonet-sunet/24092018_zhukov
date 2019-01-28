@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/style/style.css">
 </head>
 <body>
-    <h1>Код проекта #3</h1>
+    <h1>Код проекта №3</h1>
 
     <script src="/js/main.js"></script>
 </body>
