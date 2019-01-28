@@ -9,7 +9,8 @@
 </head>
 <body>
     <h1>Код проекта №3</h1>
-
+    <p>Новый параграф</p>
+    <p>Новый параграф 2</p>
     <script src="/js/main.js"></script>
 </body>
 </html>
